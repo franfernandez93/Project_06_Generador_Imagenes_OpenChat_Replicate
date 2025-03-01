@@ -71,7 +71,7 @@ Incluyo manejo de errores básico para asegurarme de que si algo falla (por ejem
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/tu-repo.git
+    git clone https://github.com/franfernandez93/Project_06_Generador_Imagenes_OpenChat_Replicate)
     ```
 2. Abre el notebook en Google Colab o en tu entorno local.
 3. Instala las dependencias:
