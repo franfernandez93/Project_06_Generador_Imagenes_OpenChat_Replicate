@@ -83,6 +83,16 @@ Incluyo manejo de errores básico para asegurarme de que si algo falla (por ejem
 6. Sigue el flujo para introducir el prompt inicial y observar el resultado optimizado y la imagen generada.
 
 ---
+## 📬 Consigue resultados tan chulos como estos:
+
+![Zoro](https://github.com/franfernandez93/Project_06_Generador_Imagenes_OpenChat_Replicate/blob/main/zoro%20yo.png?raw=true)
+![Lufy](https://github.com/franfernandez93/Project_06_Generador_Imagenes_OpenChat_Replicate/blob/main/yooo.png?raw=true)
+
+
+
+
+
+---
 
 ## 🤝 Contribuciones
 
